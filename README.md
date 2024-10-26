@@ -64,5 +64,3 @@ Contributions are welcome! Follow these steps to contribute:
 
 Feel free to report issues or suggest new features by opening an issue in the Issues tab.
 
-License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project. See the [LICENSE](LICENSE) file for details.
